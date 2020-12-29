@@ -10,9 +10,9 @@ printf "\e[0m\e[1;91m   \___ \|  _ \ / _ \|  __| __| | |  | |  _  /| |     \e[0m
 printf "\e[0m\e[1;91m   ____) | | | | (_) | |  | |_  | |__| | | \ \| |____ \e[0m\n"
 printf "\e[0m\e[1;91m  |_____/|_| |_|\___/|_|  \___|  \____/|_|  \_\______|\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[1;92m        Created By HackWeiser360 \e[0m\e[1;91m( \e[0m\e[1;92mMådMâx \e[0m\e[1;91m)\e[0m\n"
+printf "\e[0m\e[1;92m        Created By jutt-maker \e[0m\e[1;91m( \e[0m\e[1;91mZainJutt \e[0m\e[1;91m)\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[1;93m    Twitter :\e[0m\e[1;96m 503_madmax \e[0m\e[1;97m| \e[0m\e[1;93mInstagram :\e[0m\e[1;96m madmax4708\e[0m\n"
+printf "\e[0m\e[1;93m    Twitter :\e[0m\e[1;96m zainahsen75@gmail.com \e[0m\e[1;97m| \e[0m\e[1;93mInstagram :\e[0m\e[1;96m Z_a_i_n.j\e[0m\n"
 }
 banner
 printf "\e[0m\n"
