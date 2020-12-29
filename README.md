@@ -5,7 +5,7 @@ ShortURL is a shell based script for shortening your URL/link. It is available i
 ### [+] Installation and Usage
 * $ apt update
 * $ apt install git -y
-* $ git clone https://github.com/HackWeiser360/ShortURL
+* $ git clone https://github.com/jutt-maker/ShortURL
 * $ cd ShortURL
 * $ bash setup.sh
 
@@ -15,7 +15,5 @@ ShortURL is a shell based script for shortening your URL/link. It is available i
 * $ apt update && apt install git -y && git clone https://github.com/HackWeiser360/ShortURL && cd shorturl && bash setup.sh && shorturl
 ***
 
-### Follow on [Instagram](https://www.instagram.com/madmax4708/)
-### Visit our YouTube channel. [Why not?](https://youtube.com/channel/UC02OkpTZkxRZCEzFjawf6mA)
-### Visit our [FaceBook Page](fb.me/HackWeiser360)
-### You can leave a message [here](m.me/HackWeiser360)
+### Visit our YouTube channel. [Why not?](https://youtube.com/channel/UCpe31TYUWznicQ1sj4gW4IQ)
+
